@@ -33,3 +33,12 @@ FROM
   PLANETARY_DATA
 WHERE
   Rings = "Yes"
+  
+
+
+DETAILS:
+name:Thanuja Marada
+College:Dr.Lankapalli Bullayya College,Visakhaptnam
+phone.no: 7093829562 
+mail: maradathanuja@gmail.com
+
